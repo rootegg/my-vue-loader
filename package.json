@@ -1,0 +1,30 @@
+{
+  "name": "vue-loader-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@vue/babel-plugin-jsx": "^1.1.1",
+    "@vue/babel-preset-jsx": "^1.4.0",
+    "babel-loader": "^9.1.2",
+    "css-loader": "^6.7.3",
+    "hash-sum": "^2.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.2",
+    "vue-loader": "^17.0.1",
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1",
+    "webpack-html-plugin": "^0.1.1"
+  },
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
+}
